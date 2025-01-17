@@ -1,0 +1,9 @@
+gradio==4.44.0
+groq
+pydub==0.25.1
+pydantic==2.7
+pypdf==4.1
+tiktoken
+requests
+beautifulsoup4
+gTTS
